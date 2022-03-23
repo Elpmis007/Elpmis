@@ -1,0 +1,34 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elpmis007/blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "xuwenwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elpmis007/blog/issues"
+  },
+  "homepage": "https://github.com/Elpmis007/blog#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.36"
+  },
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
