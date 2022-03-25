@@ -1,1 +1,0 @@
-const t={key:"v-fb0f0066",path:"/guide/getting-started.html",title:"\u5F00\u59CB",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648024447e3,contributors:[{name:"Elpmis\u2190",email:"erdong777@qq.com",commits:1}]},filePathRelative:"guide/getting-started.md"};export{t as data};
