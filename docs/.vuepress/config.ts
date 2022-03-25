@@ -5,7 +5,9 @@ import { navbar, sidebar } from './configs'
 const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig<DefaultThemeOptions>({
-  base: '/',
+  title:'Elpmis的博客',
+  base: "/blog/",
+  dest: "dist/",
 
   head: [
     
