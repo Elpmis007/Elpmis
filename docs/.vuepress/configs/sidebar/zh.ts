@@ -1,21 +1,19 @@
 import type { SidebarConfig } from '@vuepress/theme-default'
 
 export const zh: SidebarConfig = {
-  '/guide/': [
+  '/': [
     {
-      text: '2022',
+      text: 'About me',
       children: [
         '/guide/getting-started.md',
         '/guide/share.md',
       ],
     },
-  ],
-  '/2022/': [
     {
-      text: 'test',
+      text: '测试',
       children: [
         '/2022/2022-03-23.md',
       ],
     },
-  ],
+  ]
 }
