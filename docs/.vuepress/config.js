@@ -7,7 +7,7 @@ module.exports = {
     evergreen: true,
     locales: { '/': { lang: 'zh-CN' }},
     themeConfig: {
-        cover: "./2.jpeg",
+        cover: "./cover.jpg",
         logo: "./logo.png",
         backgroundImage: true,
         search: true,
