@@ -32,8 +32,8 @@ jobs:
           pnpm run build
       # Runs a set of commands using the runners shell
       - name: Deploy
-      - uses: JamesIves/github-pages-deploy-action@3.6.2
-      - with:
+        uses: JamesIves/github-pages-deploy-action@3.6.2
+        with:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           BRANCH: gh-pages
           FOLDER: dist
