@@ -1,6 +1,6 @@
 ---
 title: 关于我
-image: /blog/background.jpg
+# image: /blog/cover.jpg
 date: 2022-03-31
 ---
 
