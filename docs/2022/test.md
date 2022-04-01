@@ -1,8 +1,8 @@
 ---
 display: home
 title: test
-image: /blog/2.jpeg
-date: 2022-01-026
+image: https://picsum.photos/536/354?random&date=2022-04-01
+date: 2022-04-01
 tags:
   - 橘子
 ---

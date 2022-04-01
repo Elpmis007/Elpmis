@@ -28,13 +28,12 @@
     "vuepress": "^1.9.7"
   },
   "dependencies": {
-    "@vuepress/plugin-back-to-top": "^1.9.7",
     "@vuepress/plugin-last-updated": "^1.9.7",
-    "@vuepress/plugin-medium-zoom": "^1.9.7",
     "@vuepress/plugin-nprogress": "^1.9.7",
     "@vuepress/plugin-search": "^1.9.7",
-    "css-prefers-color-scheme": "^6.0.3",
-    "vuepress-plugin-blog-multidir": "^1.0.5",
+    "vuepress-plugin-container": "^2.1.5",
+    "vuepress-plugin-helper-live2d": "^1.0.2",
+    "vuepress-plugin-last-reading": "^1.0.0",
     "vuepress-theme-focus": "^0.1.0-alpha.2",
     "vuepress-theme-ououe": "^1.5.3"
   }

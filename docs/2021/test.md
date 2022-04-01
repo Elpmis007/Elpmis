@@ -1,8 +1,8 @@
 ---
 display: home
 title: 2021
-image: /blog/1.jpeg
-date: 2021-01-026
+image: https://picsum.photos/536/354?random&date=2021-01-26
+date: 2021-01-26
 tags:
   - 橘子
 ---
